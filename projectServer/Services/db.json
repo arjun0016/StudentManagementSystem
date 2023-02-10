@@ -1,0 +1,63 @@
+[
+    {
+      "id": 10,
+    "name": "Arjun",
+    "email": "ar@gmail.com",
+    "city": "Delhi"
+    
+  },
+  {
+    "id": 11,
+    "name": "Anurag",
+    "email": "an@gmail.com",
+    "mobile":9857463564,
+    "city": "pune"
+    
+  },
+  {
+    "id": 12,
+    "name": "Athul",
+    "email": "at@gmail.com",
+    "mobile":9857463564,
+    "city": "pune"
+    
+  },
+  {
+    "id": 13,
+    "name": "Neeraj",
+    "email": "ne@gmail.com",
+    "mobile":9857463564,
+    "city": "pune"
+  },
+  {
+    "id": 14,
+    "name": "Sanjay",
+    "email": "sa@gmail.com",
+    "mobile":9857463564,
+    "city": "pune"
+    
+  },
+  {
+    "id": 15,
+    "name": "Manas",
+    "email": "ma@gmail.com",
+    "mobile":9857463564,
+    "city": "chennai"
+    
+  },
+  {
+    "id": 16,
+    "name": "Ajay",
+    "email": "aj@gmail.com",
+    "mobile":9857463564,
+    "city": "pune"
+  },
+  {
+    "id": 17,
+    "name": "Jestin",
+    "email": "ar@gmail.com",
+    "mobile":9857463564,
+    "city": "mumbai"
+    
+  }
+]
